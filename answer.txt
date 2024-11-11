@@ -1,0 +1,3 @@
+Câu lệnh cài đặt email: git config --global user.email "vothanhtai823@gmail.com"
+Câu lệnh cài đặt name: git config --global user.name "Tai"
+setup lại name: git config user.name "K8-Tai"
