@@ -1,3 +1,14 @@
 Câu lệnh cài đặt email: git config --global user.email "vothanhtai823@gmail.com"
 Câu lệnh cài đặt name: git config --global user.name "Tai"
 setup lại name: git config user.name "K8-Tai"
+
+Các bước đổi message khi commit 
+1: Sử dụng lệnh "git commit --amend"
+2. Di chuyển bằng nút "mũi tên bàn phím"
+3. Để vào chế độ insert bấm "i"(kiểm tra xem trên Terminal có hiển thị Insert)
+4. Di chuyển amouse đến message 
+5. Đổi message mong muốn
+6. Thoát khỏi chế độ insert hãy bấm nút ESC trên bàn phím
+7. Bấm ":::" để vào chế độ lệnh
+8. wq và enter để thoát 
+9. run câu lệnh "git log" để check xem message đã đổi hay chưa
